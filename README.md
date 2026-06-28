@@ -1,7 +1,10 @@
 # **No name yet**
 > *Game without genre.. for now.*
 
-<img src="https://img.shields.io/badge/version-0.1.0--alpha.1-blue" alt="version">
+<small>Made by:</small> 
+[<img src="https://github.com/visceralcricket.png" width="50" height="50">](https://github.com/visceralcricket)
+
+<img src="https://img.shields.io/badge/version-0.1.0--alpha.1-blue" alt="version" width="180" height="25">
 
 [![Last Commit](https://img.shields.io/github/last-commit/visceralcricket/glfwGameProject/main)](https://github.com/visceralcricket/glfwGameProject/commits/main)
 
